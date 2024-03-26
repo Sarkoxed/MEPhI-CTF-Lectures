@@ -4,4 +4,4 @@
 - [Групповая Терапия](https://youtu.be/vckCTuR1XFE?si=N-G4ZxbseupX3MXY) - теория групп
 - [Русское поле и кольца](https://www.youtube.com/watch?v=xCEWAPJnQwA) - Теория групп, колец, полей. DLP и атаки. RSA и атаки.
 - [Эллиптическая фантазия](https://www.youtube.com/watch?v=q36yGEdbR60) - Эллиптические кривые, DLP, ECDH, ECDSA.
-- [Симметричные и быстрые]() - Хэш-функции, Блочные/Потоковые шифры и др.
+- [Симметричные и быстрые](https://www.youtube.com/watch?v=z2LtX2_ha7s) - Хэш-функции, Блочные/Потоковые шифры и др.
